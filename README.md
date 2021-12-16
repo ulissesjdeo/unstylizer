@@ -1,4 +1,4 @@
 Link for css source-code:
-https://gitlab.com/ulissesjdeo/unstylizer/-/raw/master/unstylizer.css
+https://raw.githubusercontent.com/ulissesjdeo/unstylizer/main/unstylizer.css
 Tag for html:
-<link rel="stylesheet" href="https://gitlab.com/ulissesjdeo/unstylizer/-/raw/master/unstylizer.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/ulissesjdeo/unstylizer/main/unstylizer.css">
